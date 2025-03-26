@@ -12,7 +12,8 @@ do curso versionamento de codigos com git e github da
 
 | Aulas | Resumos |
 |-------|---------|
-|Gravando Alterações no Repositório Local | [Resumos]()
+|Aula 01 | [Resumos]()
+|Aula 02 | [Resumos]()
 
 ```
 git init
